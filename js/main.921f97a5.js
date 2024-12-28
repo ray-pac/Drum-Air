@@ -19861,11 +19861,12 @@
                 
                             const fadeInAudio = () => {
                                 const fd = 3000, s = 0.01, iT = fd / (1 / s); 
-                
+                            
                                 setTimeout(() => {
-                                    a.muted = false; 
+                                    const a = document.getElementById("backgroundAudio");
+                                    a.muted = false;  
                                     a.volume = 0;   
-                
+                            
                                     a.play().then(() => {
                                         const interval = setInterval(() => {
                                             if (a.volume < 1) {
@@ -19877,18 +19878,13 @@
                                     }).catch(err => {
                                         console.error("Playback failed:", err);
                                     });
-                                }, 2000);
+                                }, 5000); 
                             };
                 
                             fadeInAudio(); 
-                
-                            a.addEventListener("ended", () => {
-                                a.currentTime = 0; 
-                                a.play().then(fadeInAudio) 
-                                    .catch(err => {
-                                        console.error("Playback failed on loop:", err);
-                                    });
-                            });
+                            document.addEventListener("scroll", fadeInAudio, { once: true });  
+                            document.addEventListener("touchstart", fadeInAudio, { once: true }); 
+                            
                         }
                     }), (0,
                     wi.jsx)("nav", {
