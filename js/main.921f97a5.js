@@ -19846,6 +19846,50 @@
                                 className: "header-logo-img"
                             })
                         })
+                    }),(0,
+                    wi.jsx)("audio", {
+                        id: "backgroundAudio",
+                        src: "/Drum-Air/media/audio/6303082381980996619.mp3",
+                        preload: "auto",
+                        onLoadedMetadata: () => {
+                            const a = document.getElementById("backgroundAudio");
+                
+                            a.setAttribute("muted", "");
+                            a.setAttribute("loop", "");
+                            a.muted = true;
+                            a.loop = true;
+                
+                            const fadeInAudio = () => {
+                                const fd = 3000, s = 0.01, iT = fd / (1 / s); 
+                
+                                setTimeout(() => {
+                                    a.muted = false; 
+                                    a.volume = 0;   
+                
+                                    a.play().then(() => {
+                                        const interval = setInterval(() => {
+                                            if (a.volume < 1) {
+                                                a.volume = Math.min(a.volume + s, 1); 
+                                            } else {
+                                                clearInterval(interval); 
+                                            }
+                                        }, iT);
+                                    }).catch(err => {
+                                        console.error("Playback failed:", err);
+                                    });
+                                }, 2000);
+                            };
+                
+                            fadeInAudio(); 
+                
+                            a.addEventListener("ended", () => {
+                                a.currentTime = 0; 
+                                a.play().then(fadeInAudio) 
+                                    .catch(err => {
+                                        console.error("Playback failed on loop:", err);
+                                    });
+                            });
+                        }
                     }), (0,
                     wi.jsx)("nav", {
                         className: "navbar",
