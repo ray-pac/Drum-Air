@@ -10,7 +10,7 @@ code {
 
 .main-header {
     align-items: center;
-    background-image: url(/Github-t/media/Header.1615791390c8d3012528.png);
+    background-image: url(/Drum-Air/media/Header.1615791390c8d3012528.png);
     background-size: 100% 100%;
     color: #fff;
     display: flex;
@@ -546,7 +546,7 @@ a,a:link,a:visited {
 
 .header {
     align-items: center;
-    background: url(/Github-t/media/AD_Earth.b505511cd233ebad0d18.png);
+    background: url(/Drum-Air/media/AD_Earth.b505511cd233ebad0d18.png);
     background-position: 50%;
     background-repeat: no-repeat,repeat;
     background-size: auto 100%;
@@ -598,7 +598,7 @@ a,a:link,a:visited {
 }
 
 .drumming {
-    background-image: url(/Github-t/media/AD.a104d908a4049a7f50a8.png);
+    background-image: url(/Drum-Air/media/AD.a104d908a4049a7f50a8.png);
     width: 380px
 }
 
@@ -611,13 +611,13 @@ a,a:link,a:visited {
 }
 
 .citing {
-    background-image: url(/Github-t/media/Airciting_features.2e14ff01784e6650c5cd.png);
+    background-image: url(/Drum-Air/media/Airciting_features.2e14ff01784e6650c5cd.png);
     margin-left: 15px;
     width: 746px
 }
 
 .star {
-    background-image: url(/Github-t/media/Star_Tracks.41e6c0880cd4067e62c9.png);
+    background-image: url(/Drum-Air/media/Star_Tracks.41e6c0880cd4067e62c9.png);
     width: 746px
 }
 
@@ -630,13 +630,13 @@ a,a:link,a:visited {
 }
 
 .feel {
-    background-image: url(/Github-t/media/Frame_343.8704fdf3eb1a20dacfe7.png);
+    background-image: url(/Drum-Air/media/Frame_343.8704fdf3eb1a20dacfe7.png);
     margin-left: 15px;
     width: 380px
 }
 
 .learn {
-    background-image: url(/Github-t/media/Learn_More.1f0983cd3ae214ac519e.png);
+    background-image: url(/Drum-Air/media/Learn_More.1f0983cd3ae214ac519e.png);
     width: 380px
 }
 
@@ -649,13 +649,13 @@ a,a:link,a:visited {
 }
 
 .drumplay {
-    background-image: url(/Github-t/media/Drum_Play.c67120abbf0dccdd9590.png);
+    background-image: url(/Drum-Air/media/Drum_Play.c67120abbf0dccdd9590.png);
     margin-left: 15px;
     width: 746px
 }
 
 .about {
-    background-image: url(/Github-t/media/Section_04_back.936395d960ba075f0345.png);
+    background-image: url(/Drum-Air/media/Section_04_back.936395d960ba075f0345.png);
     background-size: 100% 100%;
     height: 100vh
 }
@@ -2353,7 +2353,7 @@ a,a:link,a:visited {
 }
 
 .home-container {
-    background-image: url(/Github-t/media/home_back.22ed243b857039ecf6c1.png);
+    background-image: url(/Drum-Air/media/home_back.22ed243b857039ecf6c1.png);
     background-size: cover;
     width: 100%
 }
@@ -2549,7 +2549,7 @@ a,a:link,a:visited {
 }
 
 .community-image {
-    background-image: url(/Github-t/media/AIRCommunity_img.9012064d4b3a8b0a667c.png);
+    background-image: url(/Drum-Air/media/AIRCommunity_img.9012064d4b3a8b0a667c.png);
     background-size: 100% 100%;
     height: 1115px;
     position: absolute;
@@ -2587,7 +2587,7 @@ a,a:link,a:visited {
 }
 
 .events-image {
-    background-image: url(/Github-t/media/Events_Img.8a00339d3c7d88fabd77.png);
+    background-image: url(/Drum-Air/media/Events_Img.8a00339d3c7d88fabd77.png);
     background-size: 100% 100%;
     height: 1117px;
     position: absolute;
@@ -2629,7 +2629,7 @@ a,a:link,a:visited {
     }
 
     .home-container {
-        background-image: url(/Github-t/media/Galaxy_Background.d7e8da5aac2728c4ff3b.png);
+        background-image: url(/Drum-Air/media/Galaxy_Background.d7e8da5aac2728c4ff3b.png);
         background-size: cover;
         max-width: 744px;
         overflow: hidden
@@ -2808,7 +2808,7 @@ a,a:link,a:visited {
 
     .drumming {
         background-color: initial;
-        background-image: url(/Github-t/media/AD_mobile.3400a1570d4554a250f0.png);
+        background-image: url(/Drum-Air/media/AD_mobile.3400a1570d4554a250f0.png);
         background-size: 100% 100%;
         border: none;
         height: 156px;
@@ -2816,7 +2816,7 @@ a,a:link,a:visited {
     }
 
     .citing {
-        background-image: url(/Github-t/media/Airciting_features_mobile.f1b26293fa8ab3636b51.png);
+        background-image: url(/Drum-Air/media/Airciting_features_mobile.f1b26293fa8ab3636b51.png);
         height: 252px
     }
 
@@ -2830,12 +2830,12 @@ a,a:link,a:visited {
     }
 
     .star {
-        background-image: url(/Github-t/media/Frame_343_mobile.66054d623d78f1705d5a.png);
+        background-image: url(/Drum-Air/media/Frame_343_mobile.66054d623d78f1705d5a.png);
         height: 156px
     }
 
     .feel {
-        background-image: url(/Github-t/media/Star_Tracks_mobile.637811a79ae7e026c960.png)
+        background-image: url(/Drum-Air/media/Star_Tracks_mobile.637811a79ae7e026c960.png)
     }
 
     .feel,.learn {
@@ -2849,12 +2849,12 @@ a,a:link,a:visited {
     }
 
     .learn {
-        background-image: url(/Github-t/media/Drum_Play_mobile.fe25ca41f1111a1735d0.png)
+        background-image: url(/Drum-Air/media/Drum_Play_mobile.fe25ca41f1111a1735d0.png)
     }
 
     .drumplay {
         background-color: initial;
-        background-image: url(/Github-t/media/Learn_More_mobile.1f81ca31da2159e65f3d.png);
+        background-image: url(/Drum-Air/media/Learn_More_mobile.1f81ca31da2159e65f3d.png);
         background-size: 100% 100%;
         border: none;
         height: 156px;
@@ -2869,7 +2869,7 @@ a,a:link,a:visited {
     }
 
     .community-image {
-        background-image: url(/Github-t/media/AIRCommunity_img.9012064d4b3a8b0a667c.png);
+        background-image: url(/Drum-Air/media/AIRCommunity_img.9012064d4b3a8b0a667c.png);
         background-size: 100% 100%;
         bottom: 0;
         height: 239.75px;
@@ -2930,7 +2930,7 @@ a,a:link,a:visited {
     }
 
     .events-image {
-        background-image: url(/Github-t/media/Events_Img.8a00339d3c7d88fabd77.png);
+        background-image: url(/Drum-Air/media/Events_Img.8a00339d3c7d88fabd77.png);
         background-size: 100% 100%;
         bottom: 0;
         height: 239.75px;
@@ -2988,7 +2988,7 @@ a,a:link,a:visited {
     }
 
     .home-container {
-        background-image: url(/Github-t/media/Galaxy_Background.d7e8da5aac2728c4ff3b.png);
+        background-image: url(/Drum-Air/media/Galaxy_Background.d7e8da5aac2728c4ff3b.png);
         background-size: 100% 100%;
         max-width: 360px;
         overflow: hidden
@@ -3160,7 +3160,7 @@ a,a:link,a:visited {
 
     .drumming {
         background-color: initial;
-        background-image: url(/Github-t/media/AD_mobile.3400a1570d4554a250f0.png);
+        background-image: url(/Drum-Air/media/AD_mobile.3400a1570d4554a250f0.png);
         background-size: 100% 100%;
         border: none;
         height: 156px;
@@ -3168,7 +3168,7 @@ a,a:link,a:visited {
     }
 
     .citing {
-        background-image: url(/Github-t/media/Airciting_features_mobile.f1b26293fa8ab3636b51.png);
+        background-image: url(/Drum-Air/media/Airciting_features_mobile.f1b26293fa8ab3636b51.png);
         height: 252px
     }
 
@@ -3182,12 +3182,12 @@ a,a:link,a:visited {
     }
 
     .star {
-        background-image: url(/Github-t/media/Frame_343_mobile.66054d623d78f1705d5a.png);
+        background-image: url(/Drum-Air/media/Frame_343_mobile.66054d623d78f1705d5a.png);
         height: 156px
     }
 
     .feel {
-        background-image: url(/Github-t/media/Star_Tracks_mobile.637811a79ae7e026c960.png)
+        background-image: url(/Drum-Air/media/Star_Tracks_mobile.637811a79ae7e026c960.png)
     }
 
     .feel,.learn {
@@ -3201,12 +3201,12 @@ a,a:link,a:visited {
     }
 
     .learn {
-        background-image: url(/Github-t/media/Drum_Play_mobile.fe25ca41f1111a1735d0.png)
+        background-image: url(/Drum-Air/media/Drum_Play_mobile.fe25ca41f1111a1735d0.png)
     }
 
     .drumplay {
         background-color: initial;
-        background-image: url(/Github-t/media/Learn_More_mobile.1f81ca31da2159e65f3d.png);
+        background-image: url(/Drum-Air/media/Learn_More_mobile.1f81ca31da2159e65f3d.png);
         background-size: 100% 100%;
         border: none;
         height: 156px;
@@ -3221,7 +3221,7 @@ a,a:link,a:visited {
     }
 
     .community-image {
-        background-image: url(/Github-t/media/AIRCommunity_img.9012064d4b3a8b0a667c.png);
+        background-image: url(/Drum-Air/media/AIRCommunity_img.9012064d4b3a8b0a667c.png);
         background-size: 100% 100%;
         bottom: 0;
         height: 239.75px;
@@ -3281,7 +3281,7 @@ a,a:link,a:visited {
     }
 
     .events-image {
-        background-image: url(/Github-t/media/Events_Img.8a00339d3c7d88fabd77.png);
+        background-image: url(/Drum-Air/media/Events_Img.8a00339d3c7d88fabd77.png);
         background-size: 100% 100%;
         bottom: 0;
         height: 239.75px;
@@ -3305,7 +3305,7 @@ a,a:link,a:visited {
 }
 
 .join {
-    background-image: url(/Github-t/media/join.6f99fa685fbf6a011444.png);
+    background-image: url(/Drum-Air/media/join.6f99fa685fbf6a011444.png);
     background-size: 100% 100%;
     border: none;
     height: 76px;
@@ -3330,7 +3330,7 @@ a,a:link,a:visited {
 }
 
 .join:hover {
-    background-image: url(/Github-t/media/join.6f99fa685fbf6a011444.png);
+    background-image: url(/Drum-Air/media/join.6f99fa685fbf6a011444.png);
     background-size: 100% 100%;
     border: none;
     box-shadow: 5px 10px 10px #000000b3;
@@ -3358,7 +3358,7 @@ a,a:link,a:visited {
 }
 
 .solar_earth,.sun {
-    background-image: url(/Github-t/media/Earth_crop.b505511cd233ebad0d18.png);
+    background-image: url(/Drum-Air/media/Earth_crop.b505511cd233ebad0d18.png);
     background-size: 100% 100%;
     height: 637px;
     width: 637px
@@ -3372,7 +3372,7 @@ a,a:link,a:visited {
 }
 
 .blue {
-    background-image: url(/Github-t/media/Planet_03-1.908a152e472d24c16345.png);
+    background-image: url(/Drum-Air/media/Planet_03-1.908a152e472d24c16345.png);
     height: 184px;
     left: 2%;
     top: 25%;
@@ -3387,7 +3387,7 @@ a,a:link,a:visited {
 }
 
 .pink {
-    background-image: url(/Github-t/media/Planet_03.e63d1ea72d4890748bfe.png);
+    background-image: url(/Drum-Air/media/Planet_03.e63d1ea72d4890748bfe.png);
     height: 130px;
     left: 100%;
     top: 39%;
@@ -3395,7 +3395,7 @@ a,a:link,a:visited {
 }
 
 .yellow {
-    background-image: url(/Github-t/media/Planet_Bullet_04.405f7f7c983611b75338.png);
+    background-image: url(/Drum-Air/media/Planet_Bullet_04.405f7f7c983611b75338.png);
     height: 111px;
     left: 21%;
     top: 85%;
@@ -3410,7 +3410,7 @@ a,a:link,a:visited {
 }
 
 .green {
-    background-image: url(/Github-t/media/Planet_Bullet_02.0feb439e569e01deb768.png);
+    background-image: url(/Drum-Air/media/Planet_Bullet_02.0feb439e569e01deb768.png);
     height: 96.6px;
     left: 24%;
     top: 2%;
@@ -3419,7 +3419,7 @@ a,a:link,a:visited {
 }
 
 .Khroma {
-    background-image: url(/Github-t/media/Khroma_Planet.5c0ef6a9a4880028ff4b.png);
+    background-image: url(/Drum-Air/media/Khroma_Planet.5c0ef6a9a4880028ff4b.png);
     height: 368px;
     right: -19%;
     top: 40%;
@@ -3434,7 +3434,7 @@ a,a:link,a:visited {
 }
 
 .Imperialis {
-    background-image: url(/Github-t/media/Imperialis_planet.cc1c45736c09c119acbd.png);
+    background-image: url(/Drum-Air/media/Imperialis_planet.cc1c45736c09c119acbd.png);
     height: 364px;
     left: 88%;
     top: 10%;
@@ -3442,7 +3442,7 @@ a,a:link,a:visited {
 }
 
 .Devorah {
-    background-image: url(/Github-t/media/Devorah_planet.18cc4f74721335c20871.png);
+    background-image: url(/Drum-Air/media/Devorah_planet.18cc4f74721335c20871.png);
     height: 376px;
     left: 1%;
     top: 29%;
@@ -3457,7 +3457,7 @@ a,a:link,a:visited {
 }
 
 .Aurelia {
-    background-image: url(/Github-t/media/Aurelia_planet.1ad2dadaadfa96d9a0bc.png);
+    background-image: url(/Drum-Air/media/Aurelia_planet.1ad2dadaadfa96d9a0bc.png);
     height: 233px;
     left: 55%;
     top: 92%;
@@ -3465,7 +3465,7 @@ a,a:link,a:visited {
 }
 
 .Mylocritas {
-    background-image: url(/Github-t/media/Mylocritas_planet.078488ba0e274e559b25.png);
+    background-image: url(/Drum-Air/media/Mylocritas_planet.078488ba0e274e559b25.png);
     background-size: 100% 100%;
     border-radius: 50%;
     height: 213px;
@@ -3503,7 +3503,7 @@ a,a:link,a:visited {
 }
 
 .about_back {
-    background-image: url(/Github-t/media/about.24d9ea0bdd6ee5e82f5b.png);
+    background-image: url(/Drum-Air/media/about.24d9ea0bdd6ee5e82f5b.png);
     background-size: 100% 100%
 }
 
@@ -3536,7 +3536,7 @@ a,a:link,a:visited {
 }
 
 .whats-phone {
-    background-image: url(/Github-t/media/GraphicBox.c0b3b87a62b7bb351e3a.png);
+    background-image: url(/Drum-Air/media/GraphicBox.c0b3b87a62b7bb351e3a.png);
     height: 503.34px;
     position: relative;
     width: 722px
@@ -3631,7 +3631,7 @@ a,a:link,a:visited {
 
 .whos {
     background-color: initial;
-    background-image: url(/Github-t/media/Who.86f9c7afc47af339988c.png);
+    background-image: url(/Drum-Air/media/Who.86f9c7afc47af339988c.png);
     background-size: 100% 100%;
     border: none;
     height: 520px;
@@ -3641,7 +3641,7 @@ a,a:link,a:visited {
 }
 
 .mission {
-    background-image: url(/Github-t/media/Mission.4891196829f262c54945.png)
+    background-image: url(/Drum-Air/media/Mission.4891196829f262c54945.png)
 }
 
 .mission,.vision {
@@ -3654,11 +3654,11 @@ a,a:link,a:visited {
 }
 
 .vision {
-    background-image: url(/Github-t/media/Vision.a823ef00e764cf346513.png)
+    background-image: url(/Drum-Air/media/Vision.a823ef00e764cf346513.png)
 }
 
 .milestone-container {
-    background-image: url(/Github-t/media/MIlestone_BG.e4758a0a21ff521a8a0c.png);
+    background-image: url(/Drum-Air/media/MIlestone_BG.e4758a0a21ff521a8a0c.png);
     background-size: 100% 100%;
     height: 1526;
     position: "relative";
@@ -3667,8 +3667,8 @@ a,a:link,a:visited {
 
 .milestone-mask {
     height: 1526px;
-    -webkit-mask: url(/Github-t/media/mask_img.668f7b0c218589df9a64.png) no-repeat;
-    mask: url(/Github-t/media/mask_img.668f7b0c218589df9a64.png) no-repeat;
+    -webkit-mask: url(/Drum-Air/media/mask_img.668f7b0c218589df9a64.png) no-repeat;
+    mask: url(/Drum-Air/media/mask_img.668f7b0c218589df9a64.png) no-repeat;
     -webkit-mask-size: 100vw 1526px;
     mask-size: 100vw 1526px;
     overflow: hidden;
@@ -3732,7 +3732,7 @@ a,a:link,a:visited {
 }
 
 .milestone-2023_1 {
-    background-image: url(/Github-t/media/2023_1.4d97b5679152a298f698.png)
+    background-image: url(/Drum-Air/media/2023_1.4d97b5679152a298f698.png)
 }
 
 .milestone-2023_1,.milestone-2023_2 {
@@ -3743,11 +3743,11 @@ a,a:link,a:visited {
 }
 
 .milestone-2023_2 {
-    background-image: url(/Github-t/media/2023_2.5deaaaea9c98b1ff27f8.png)
+    background-image: url(/Drum-Air/media/2023_2.5deaaaea9c98b1ff27f8.png)
 }
 
 .milestone-2022_1 {
-    background-image: url(/Github-t/media/2022_1.507c793cb8555c54077e.png)
+    background-image: url(/Drum-Air/media/2022_1.507c793cb8555c54077e.png)
 }
 
 .milestone-2022_1,.milestone-2022_2 {
@@ -3758,7 +3758,7 @@ a,a:link,a:visited {
 }
 
 .milestone-2022_2 {
-    background-image: url(/Github-t/media/2022_2.ad415f7926f72299acc2.png)
+    background-image: url(/Drum-Air/media/2022_2.ad415f7926f72299acc2.png)
 }
 
 .orbit-blue,.orbit-pink {
@@ -3805,7 +3805,7 @@ a,a:link,a:visited {
 }
 
 .events_about {
-    background-image: url(/Github-t/media/Section_04_back.936395d960ba075f0345.png);
+    background-image: url(/Drum-Air/media/Section_04_back.936395d960ba075f0345.png);
     background-size: 100% 100%;
     bottom: 0
 }
@@ -3848,7 +3848,7 @@ a,a:link,a:visited {
     }
 
     .about_back {
-        background-image: url(/Github-t/media/About_mobile.b13388c635aed3197106.png);
+        background-image: url(/Drum-Air/media/About_mobile.b13388c635aed3197106.png);
         background-size: 100% 100%;
         min-height: 3264px
     }
@@ -3891,7 +3891,7 @@ a,a:link,a:visited {
     }
 
     .whats-phone {
-        background-image: url(/Github-t/media/GraphicBox.c0b3b87a62b7bb351e3a.png);
+        background-image: url(/Drum-Air/media/GraphicBox.c0b3b87a62b7bb351e3a.png);
         background-size: 100% 100%;
         height: 203.49px;
         position: relative;
@@ -3977,7 +3977,7 @@ a,a:link,a:visited {
     }
 
     .whos {
-        background-image: url(/Github-t/media/Who_mobile.a5027a284ffbe06fe3d7.png);
+        background-image: url(/Drum-Air/media/Who_mobile.a5027a284ffbe06fe3d7.png);
         height: 532.1px
     }
 
@@ -3990,7 +3990,7 @@ a,a:link,a:visited {
     }
 
     .mission {
-        background-image: url(/Github-t/media/Mission_mobile.3d592f608816f50cee94.png);
+        background-image: url(/Drum-Air/media/Mission_mobile.3d592f608816f50cee94.png);
         height: 160px
     }
 
@@ -4011,7 +4011,7 @@ a,a:link,a:visited {
 
     .vision {
         background-color: initial;
-        background-image: url(/Github-t/media/Vision_mobile.836bea3238e97a4c1dbd.png);
+        background-image: url(/Drum-Air/media/Vision_mobile.836bea3238e97a4c1dbd.png);
         background-size: 100% 100%;
         border: none;
         height: 160px;
@@ -4021,7 +4021,7 @@ a,a:link,a:visited {
     }
 
     .milestone-container {
-        background-image: url(/Github-t/media/Mask_group.445dce0a54869ba7d06f.png);
+        background-image: url(/Drum-Air/media/Mask_group.445dce0a54869ba7d06f.png);
         background-size: 100% 100%;
         height: 923.85px;
         position: "relative";
@@ -4098,7 +4098,7 @@ a,a:link,a:visited {
     }
 
     .milestone-2023_1 {
-        background-image: url(/Github-t/media/2023_1_mobile.1426aaa2db60b3481671.png)
+        background-image: url(/Drum-Air/media/2023_1_mobile.1426aaa2db60b3481671.png)
     }
 
     .milestone-2023_1,.milestone-2023_2 {
@@ -4109,11 +4109,11 @@ a,a:link,a:visited {
     }
 
     .milestone-2023_2 {
-        background-image: url(/Github-t/media/2023_2_mobile.9c51f0445e2448c60d8d.png)
+        background-image: url(/Drum-Air/media/2023_2_mobile.9c51f0445e2448c60d8d.png)
     }
 
     .milestone-2022_1 {
-        background-image: url(/Github-t/media/2022_1_mobile.fe7a08e5cdb64005c835.png)
+        background-image: url(/Drum-Air/media/2022_1_mobile.fe7a08e5cdb64005c835.png)
     }
 
     .milestone-2022_1,.milestone-2022_2 {
@@ -4124,7 +4124,7 @@ a,a:link,a:visited {
     }
 
     .milestone-2022_2 {
-        background-image: url(/Github-t/media/2022_2_mobile.19f54dfcfc88c32a222d.png)
+        background-image: url(/Drum-Air/media/2022_2_mobile.19f54dfcfc88c32a222d.png)
     }
 
     .milestone-2021 {
@@ -4134,7 +4134,7 @@ a,a:link,a:visited {
     }
 
     .sun {
-        background-image: url(/Github-t/media/Earth_crop.b505511cd233ebad0d18.png);
+        background-image: url(/Drum-Air/media/Earth_crop.b505511cd233ebad0d18.png);
         background-size: 100% 100%;
         border-radius: 50%;
         height: 222.95px;
@@ -4156,7 +4156,7 @@ a,a:link,a:visited {
     }
 
     .blue {
-        background-image: url(/Github-t/media/Planet_03-1.908a152e472d24c16345.png)
+        background-image: url(/Drum-Air/media/Planet_03-1.908a152e472d24c16345.png)
     }
 
     .blue,.pink {
@@ -4169,13 +4169,13 @@ a,a:link,a:visited {
     }
 
     .pink {
-        background-image: url(/Github-t/media/Planet_03.e63d1ea72d4890748bfe.png);
+        background-image: url(/Drum-Air/media/Planet_03.e63d1ea72d4890748bfe.png);
         left: 94%;
         top: 20%
     }
 
     .yellow {
-        background-image: url(/Github-t/media/Planet_Bullet_04.405f7f7c983611b75338.png);
+        background-image: url(/Drum-Air/media/Planet_Bullet_04.405f7f7c983611b75338.png);
         background-size: 100% 100%;
         border-radius: 50%;
         height: 111px;
@@ -4197,7 +4197,7 @@ a,a:link,a:visited {
     }
 
     .Imperialis {
-        background-image: url(/Github-t/media/Imperialis_planet.cc1c45736c09c119acbd.png);
+        background-image: url(/Drum-Air/media/Imperialis_planet.cc1c45736c09c119acbd.png);
         height: 114px;
         left: 87%;
         width: 114px
@@ -4212,14 +4212,14 @@ a,a:link,a:visited {
     }
 
     .Devorah {
-        background-image: url(/Github-t/media/Devorah_planet.18cc4f74721335c20871.png);
+        background-image: url(/Drum-Air/media/Devorah_planet.18cc4f74721335c20871.png);
         height: 73px;
         left: 9%;
         width: 73px
     }
 
     .green {
-        background-image: url(/Github-t/media/Planet_Bullet_02.0feb439e569e01deb768.png);
+        background-image: url(/Drum-Air/media/Planet_Bullet_02.0feb439e569e01deb768.png);
         height: 43.5px;
         left: 21%;
         top: 2%;
@@ -4234,7 +4234,7 @@ a,a:link,a:visited {
     }
 
     .Khroma {
-        background-image: url(/Github-t/media/Khroma_Planet.5c0ef6a9a4880028ff4b.png);
+        background-image: url(/Drum-Air/media/Khroma_Planet.5c0ef6a9a4880028ff4b.png);
         height: 80.5px;
         left: 27%;
         top: 81%;
@@ -4252,7 +4252,7 @@ a,a:link,a:visited {
     }
 
     .Mylocritas {
-        background-image: url(/Github-t/media/Murkara_planet.3efea906112ecf6244fb.png);
+        background-image: url(/Drum-Air/media/Murkara_planet.3efea906112ecf6244fb.png);
         height: 77px;
         left: 75%;
         top: 2%;
@@ -4267,14 +4267,14 @@ a,a:link,a:visited {
     }
 
     .Aurelia {
-        background-image: url(/Github-t/media/Aurelia_planet.1ad2dadaadfa96d9a0bc.png);
+        background-image: url(/Drum-Air/media/Aurelia_planet.1ad2dadaadfa96d9a0bc.png);
         height: 118px;
         top: -13%;
         width: 118px
     }
 
     .Solarion {
-        background-image: url(/Github-t/media/Solarion_planet.0825dd9c811cec345de3.png);
+        background-image: url(/Drum-Air/media/Solarion_planet.0825dd9c811cec345de3.png);
         left: 21%;
         top: 0
     }
@@ -4289,7 +4289,7 @@ a,a:link,a:visited {
     }
 
     .Stellaris {
-        background-image: url(/Github-t/media/Stellaris_planet.b3b30c7cd825a09faf47.png);
+        background-image: url(/Drum-Air/media/Stellaris_planet.b3b30c7cd825a09faf47.png);
         left: 27%;
         top: 84%
     }
@@ -4310,7 +4310,7 @@ a,a:link,a:visited {
     }
 
     .events_about {
-        background-image: url(/Github-t/media/Section_04_back.936395d960ba075f0345.png);
+        background-image: url(/Drum-Air/media/Section_04_back.936395d960ba075f0345.png);
         background-size: 100% 100%;
         height: 240px
     }
@@ -4342,7 +4342,7 @@ a,a:link,a:visited {
     }
 
     .join,.join:hover {
-        background-image: url(/Github-t/media/JoinUs_btn.e1397c60d1015ff37ff2.png);
+        background-image: url(/Drum-Air/media/JoinUs_btn.e1397c60d1015ff37ff2.png);
         background-size: 100% 100%;
         border: none;
         height: 46px;
@@ -4358,7 +4358,7 @@ a,a:link,a:visited {
 
 @media (max-width: 360px) {
     .about_back {
-        background-image:url(/Github-t/media/About_mobile.b13388c635aed3197106.png);
+        background-image:url(/Drum-Air/media/About_mobile.b13388c635aed3197106.png);
         background-size: 100% 100%;
         min-height: 3264px
     }
@@ -4416,7 +4416,7 @@ a,a:link,a:visited {
     }
 
     .whats-phone {
-        background-image: url(/Github-t/media/GraphicBox.c0b3b87a62b7bb351e3a.png);
+        background-image: url(/Drum-Air/media/GraphicBox.c0b3b87a62b7bb351e3a.png);
         background-size: 100% 100%;
         height: 203.49px;
         position: relative;
@@ -4503,7 +4503,7 @@ a,a:link,a:visited {
 
     .whos {
         background-color: initial;
-        background-image: url(/Github-t/media/Who_mobile.a5027a284ffbe06fe3d7.png);
+        background-image: url(/Drum-Air/media/Who_mobile.a5027a284ffbe06fe3d7.png);
         background-size: 100% 100%;
         border: none;
         height: 532.1px;
@@ -4512,7 +4512,7 @@ a,a:link,a:visited {
     }
 
     .mission {
-        background-image: url(/Github-t/media/Mission_mobile.3d592f608816f50cee94.png)
+        background-image: url(/Drum-Air/media/Mission_mobile.3d592f608816f50cee94.png)
     }
 
     .mission,.vision {
@@ -4525,11 +4525,11 @@ a,a:link,a:visited {
     }
 
     .vision {
-        background-image: url(/Github-t/media/Vision_mobile.836bea3238e97a4c1dbd.png)
+        background-image: url(/Drum-Air/media/Vision_mobile.836bea3238e97a4c1dbd.png)
     }
 
     .milestone-container {
-        background-image: url(/Github-t/media/Mask_group.445dce0a54869ba7d06f.png);
+        background-image: url(/Drum-Air/media/Mask_group.445dce0a54869ba7d06f.png);
         background-size: 100% 100%;
         height: 923.85px;
         position: "relative";
@@ -4602,7 +4602,7 @@ a,a:link,a:visited {
     }
 
     .milestone-2023_1 {
-        background-image: url(/Github-t/media/2023_1_mobile.1426aaa2db60b3481671.png)
+        background-image: url(/Drum-Air/media/2023_1_mobile.1426aaa2db60b3481671.png)
     }
 
     .milestone-2023_1,.milestone-2023_2 {
@@ -4613,11 +4613,11 @@ a,a:link,a:visited {
     }
 
     .milestone-2023_2 {
-        background-image: url(/Github-t/media/2023_2_mobile.9c51f0445e2448c60d8d.png)
+        background-image: url(/Drum-Air/media/2023_2_mobile.9c51f0445e2448c60d8d.png)
     }
 
     .milestone-2022_1 {
-        background-image: url(/Github-t/media/2022_1_mobile.fe7a08e5cdb64005c835.png)
+        background-image: url(/Drum-Air/media/2022_1_mobile.fe7a08e5cdb64005c835.png)
     }
 
     .milestone-2022_1,.milestone-2022_2 {
@@ -4628,7 +4628,7 @@ a,a:link,a:visited {
     }
 
     .milestone-2022_2 {
-        background-image: url(/Github-t/media/2022_2_mobile.19f54dfcfc88c32a222d.png)
+        background-image: url(/Drum-Air/media/2022_2_mobile.19f54dfcfc88c32a222d.png)
     }
 
     .milestone-2021 {
@@ -4638,7 +4638,7 @@ a,a:link,a:visited {
     }
 
     .sun {
-        background-image: url(/Github-t/media/Earth_crop.b505511cd233ebad0d18.png);
+        background-image: url(/Drum-Air/media/Earth_crop.b505511cd233ebad0d18.png);
         background-size: 100% 100%;
         border-radius: 50%;
         height: 222.95px;
@@ -4660,7 +4660,7 @@ a,a:link,a:visited {
     }
 
     .blue {
-        background-image: url(/Github-t/media/Planet_03-1.908a152e472d24c16345.png)
+        background-image: url(/Drum-Air/media/Planet_03-1.908a152e472d24c16345.png)
     }
 
     .blue,.pink {
@@ -4673,13 +4673,13 @@ a,a:link,a:visited {
     }
 
     .pink {
-        background-image: url(/Github-t/media/Planet_03.e63d1ea72d4890748bfe.png);
+        background-image: url(/Drum-Air/media/Planet_03.e63d1ea72d4890748bfe.png);
         left: 94%;
         top: 20%
     }
 
     .yellow {
-        background-image: url(/Github-t/media/Planet_Bullet_04.405f7f7c983611b75338.png);
+        background-image: url(/Drum-Air/media/Planet_Bullet_04.405f7f7c983611b75338.png);
         background-size: 100% 100%;
         border-radius: 50%;
         height: 111px;
@@ -4701,7 +4701,7 @@ a,a:link,a:visited {
     }
 
     .Imperialis {
-        background-image: url(/Github-t/media/Imperialis_planet.cc1c45736c09c119acbd.png);
+        background-image: url(/Drum-Air/media/Imperialis_planet.cc1c45736c09c119acbd.png);
         height: 114px;
         left: 87%;
         width: 114px
@@ -4716,14 +4716,14 @@ a,a:link,a:visited {
     }
 
     .Devorah {
-        background-image: url(/Github-t/media/Devorah_planet.18cc4f74721335c20871.png);
+        background-image: url(/Drum-Air/media/Devorah_planet.18cc4f74721335c20871.png);
         height: 73px;
         left: 9%;
         width: 73px
     }
 
     .green {
-        background-image: url(/Github-t/media/Planet_Bullet_02.0feb439e569e01deb768.png);
+        background-image: url(/Drum-Air/media/Planet_Bullet_02.0feb439e569e01deb768.png);
         height: 43.5px;
         left: 21%;
         top: 2%;
@@ -4738,7 +4738,7 @@ a,a:link,a:visited {
     }
 
     .Khroma {
-        background-image: url(/Github-t/media/Khroma_Planet.5c0ef6a9a4880028ff4b.png);
+        background-image: url(/Drum-Air/media/Khroma_Planet.5c0ef6a9a4880028ff4b.png);
         height: 80.5px;
         left: 27%;
         top: 81%;
@@ -4756,7 +4756,7 @@ a,a:link,a:visited {
     }
 
     .Mylocritas {
-        background-image: url(/Github-t/media/Murkara_planet.3efea906112ecf6244fb.png);
+        background-image: url(/Drum-Air/media/Murkara_planet.3efea906112ecf6244fb.png);
         height: 77px;
         left: 75%;
         top: 2%;
@@ -4771,14 +4771,14 @@ a,a:link,a:visited {
     }
 
     .Aurelia {
-        background-image: url(/Github-t/media/Aurelia_planet.1ad2dadaadfa96d9a0bc.png);
+        background-image: url(/Drum-Air/media/Aurelia_planet.1ad2dadaadfa96d9a0bc.png);
         height: 118px;
         top: -13%;
         width: 118px
     }
 
     .Solarion {
-        background-image: url(/Github-t/media/Solarion_planet.0825dd9c811cec345de3.png);
+        background-image: url(/Drum-Air/media/Solarion_planet.0825dd9c811cec345de3.png);
         left: 21%;
         top: 0
     }
@@ -4793,7 +4793,7 @@ a,a:link,a:visited {
     }
 
     .Stellaris {
-        background-image: url(/Github-t/media/Stellaris_planet.b3b30c7cd825a09faf47.png);
+        background-image: url(/Drum-Air/media/Stellaris_planet.b3b30c7cd825a09faf47.png);
         left: 27%;
         top: 84%
     }
@@ -4814,7 +4814,7 @@ a,a:link,a:visited {
     }
 
     .events_about {
-        background-image: url(/Github-t/media/Section_04_back.936395d960ba075f0345.png);
+        background-image: url(/Drum-Air/media/Section_04_back.936395d960ba075f0345.png);
         background-size: 100% 100%;
         height: 240px
     }
@@ -4846,7 +4846,7 @@ a,a:link,a:visited {
     }
 
     .join,.join:hover {
-        background-image: url(/Github-t/media/JoinUs_btn.e1397c60d1015ff37ff2.png);
+        background-image: url(/Drum-Air/media/JoinUs_btn.e1397c60d1015ff37ff2.png);
         background-size: 100% 100%;
         border: none;
         height: 46px;
@@ -4861,12 +4861,12 @@ a,a:link,a:visited {
 }
 
 .service_container {
-    background-image: url(/Github-t/media/services_back.e11c4740513d2dc1f7d4.png);
+    background-image: url(/Drum-Air/media/services_back.e11c4740513d2dc1f7d4.png);
     background-size: 100% 100%
 }
 
 .service-schools {
-    background-image: url(/Github-t/media/school_back.290fd9568d1958d73e55.png);
+    background-image: url(/Drum-Air/media/school_back.290fd9568d1958d73e55.png);
     background-size: 100% 100%;
     height: 1118px;
     position: relative;
@@ -4881,7 +4881,7 @@ a,a:link,a:visited {
 }
 
 .schools-intro {
-    background-image: url(/Github-t/media/school.d343936ad3973d9d0ac8.png);
+    background-image: url(/Drum-Air/media/school.d343936ad3973d9d0ac8.png);
     height: 348px
 }
 
@@ -4892,12 +4892,12 @@ a,a:link,a:visited {
 }
 
 .schools-provide {
-    background-image: url(/Github-t/media/provide.7450b390f7f59ac81deb.png);
+    background-image: url(/Drum-Air/media/provide.7450b390f7f59ac81deb.png);
     height: 191px
 }
 
 .schools-worked {
-    background-image: url(/Github-t/media/worked.918abcbd20dec6aefe70.png);
+    background-image: url(/Drum-Air/media/worked.918abcbd20dec6aefe70.png);
     background-size: 100% 100%;
     height: 172px;
     margin-right: 20px;
@@ -4905,7 +4905,7 @@ a,a:link,a:visited {
 }
 
 .schools-image {
-    background-image: url(/Github-t/media/school_Image.aef8eb66b15cc5f5733b.png);
+    background-image: url(/Drum-Air/media/school_Image.aef8eb66b15cc5f5733b.png);
     background-size: 100% 100%;
     height: 759px;
     width: 506px
@@ -4925,7 +4925,7 @@ a,a:link,a:visited {
 }
 
 .corporate-intro {
-    background-image: url(/Github-t/media/corporate_1.ac00c45d89889b325979.png);
+    background-image: url(/Drum-Air/media/corporate_1.ac00c45d89889b325979.png);
     height: 291px
 }
 
@@ -4936,12 +4936,12 @@ a,a:link,a:visited {
 }
 
 .corporate-provide {
-    background-image: url(/Github-t/media/corporate_2.6bcae13124ca22d84683.png);
+    background-image: url(/Drum-Air/media/corporate_2.6bcae13124ca22d84683.png);
     height: 210px
 }
 
 .corporate-worked {
-    background-image: url(/Github-t/media/corporate_3.d0321c59e5202b210c52.png);
+    background-image: url(/Drum-Air/media/corporate_3.d0321c59e5202b210c52.png);
     height: 153px;
     width: 608px
 }
@@ -4952,13 +4952,13 @@ a,a:link,a:visited {
 }
 
 .corporate-image {
-    background-image: url(/Github-t/media/Corporate_Image.e82ebff86b82b425d59f.png);
+    background-image: url(/Drum-Air/media/Corporate_Image.e82ebff86b82b425d59f.png);
     height: 702px;
     width: 506px
 }
 
 .service-community {
-    background-image: url(/Github-t/media/community_back.b3e27f07d9588fb5924b.png);
+    background-image: url(/Drum-Air/media/community_back.b3e27f07d9588fb5924b.png);
     background-size: 100% 100%;
     height: 1288px;
     overflow: hidden;
@@ -4973,7 +4973,7 @@ a,a:link,a:visited {
 }
 
 .community-intro {
-    background-image: url(/Github-t/media/Card_community_01.f55460a12ee33d6d4395.png);
+    background-image: url(/Drum-Air/media/Card_community_01.f55460a12ee33d6d4395.png);
     height: 348px
 }
 
@@ -4984,12 +4984,12 @@ a,a:link,a:visited {
 }
 
 .community-provide {
-    background-image: url(/Github-t/media/Card_community_02.67b8f6d21becc49822cd.png);
+    background-image: url(/Drum-Air/media/Card_community_02.67b8f6d21becc49822cd.png);
     height: 191px
 }
 
 .community-worked {
-    background-image: url(/Github-t/media/Card_community_03.c1e4ff5209ccc00e8976.png);
+    background-image: url(/Drum-Air/media/Card_community_03.c1e4ff5209ccc00e8976.png);
     background-size: 100% 100%;
     height: 172px;
     margin-right: 20px;
@@ -4997,7 +4997,7 @@ a,a:link,a:visited {
 }
 
 .service_community-image {
-    background-image: url(/Github-t/media/community_image.634a900a6f9bc5c7ea1f.png);
+    background-image: url(/Drum-Air/media/community_image.634a900a6f9bc5c7ea1f.png);
     background-size: 100% 100%;
     height: 759px;
     width: 506px
@@ -5017,7 +5017,7 @@ a,a:link,a:visited {
 }
 
 .events-intro {
-    background-image: url(/Github-t/media/Card_Events_01.4e929eaef51720b76d9d.png)
+    background-image: url(/Drum-Air/media/Card_Events_01.4e929eaef51720b76d9d.png)
 }
 
 .events-intro,.events-provide {
@@ -5028,11 +5028,11 @@ a,a:link,a:visited {
 }
 
 .events-provide {
-    background-image: url(/Github-t/media/Card_Events_02.2c2df2a71065ea359de7.png)
+    background-image: url(/Drum-Air/media/Card_Events_02.2c2df2a71065ea359de7.png)
 }
 
 .service_events-image {
-    background-image: url(/Github-t/media/image_3.a83f55fa83864a3fb43b.png);
+    background-image: url(/Drum-Air/media/image_3.a83f55fa83864a3fb43b.png);
     background-size: 100% 100%;
     height: 784px;
     margin-bottom: 20px;
@@ -5137,7 +5137,7 @@ a,a:link,a:visited {
 
 @media (max-width: 744px) {
     .service_container {
-        background-image:url(/Github-t/media/Services_mobile_bak.a95461fb03c153a58217.png);
+        background-image:url(/Drum-Air/media/Services_mobile_bak.a95461fb03c153a58217.png);
         background-size: 100% 100%
     }
 
@@ -5172,7 +5172,7 @@ a,a:link,a:visited {
     }
 
     .schools-intro {
-        background-image: url(/Github-t/media/school_mobile.b89ddaab6d7101aa0c51.png);
+        background-image: url(/Drum-Air/media/school_mobile.b89ddaab6d7101aa0c51.png);
         height: 421px
     }
 
@@ -5183,12 +5183,12 @@ a,a:link,a:visited {
     }
 
     .schools-provide {
-        background-image: url(/Github-t/media/provide_mobile.798542080b7807b07f29.png);
+        background-image: url(/Drum-Air/media/provide_mobile.798542080b7807b07f29.png);
         height: 165px
     }
 
     .schools-worked {
-        background-image: url(/Github-t/media/worked_mobile.46f4754633582c506fb5.png);
+        background-image: url(/Drum-Air/media/worked_mobile.46f4754633582c506fb5.png);
         height: 206px;
         margin-right: 0
     }
@@ -5199,7 +5199,7 @@ a,a:link,a:visited {
     }
 
     .schools-image {
-        background-image: url(/Github-t/media/school_Image.aef8eb66b15cc5f5733b.png);
+        background-image: url(/Drum-Air/media/school_Image.aef8eb66b15cc5f5733b.png);
         height: 467px;
         margin-bottom: 20px
     }
@@ -5219,7 +5219,7 @@ a,a:link,a:visited {
     }
 
     .corporate-intro {
-        background-image: url(/Github-t/media/corporate_1_mobile.4bea4e15d82d40143382.png);
+        background-image: url(/Drum-Air/media/corporate_1_mobile.4bea4e15d82d40143382.png);
         height: 341px
     }
 
@@ -5230,12 +5230,12 @@ a,a:link,a:visited {
     }
 
     .corporate-provide {
-        background-image: url(/Github-t/media/corporate_2_mobile.6718b939aa5e1135fb96.png);
+        background-image: url(/Drum-Air/media/corporate_2_mobile.6718b939aa5e1135fb96.png);
         height: 197px
     }
 
     .corporate-worked {
-        background-image: url(/Github-t/media/corporate_3_mobile.5acc337beff046f7939e.png);
+        background-image: url(/Drum-Air/media/corporate_3_mobile.5acc337beff046f7939e.png);
         height: 162px
     }
 
@@ -5246,13 +5246,13 @@ a,a:link,a:visited {
     }
 
     .corporate-image {
-        background-image: url(/Github-t/media/Corporate_Image.e82ebff86b82b425d59f.png);
+        background-image: url(/Drum-Air/media/Corporate_Image.e82ebff86b82b425d59f.png);
         height: 467px;
         margin-bottom: 20px
     }
 
     .service-community {
-        background-image: url(/Github-t/media/community_back_mobile.c006e6a884e48c64c167.png);
+        background-image: url(/Drum-Air/media/community_back_mobile.c006e6a884e48c64c167.png);
         background-size: 100% 100%;
         height: 1471.06px;
         margin-right: 0;
@@ -5269,7 +5269,7 @@ a,a:link,a:visited {
     }
 
     .community-intro {
-        background-image: url(/Github-t/media/Card_community_01_mobile.6ccaa290f5f9a623705e.png);
+        background-image: url(/Drum-Air/media/Card_community_01_mobile.6ccaa290f5f9a623705e.png);
         height: 485px
     }
 
@@ -5280,12 +5280,12 @@ a,a:link,a:visited {
     }
 
     .community-provide {
-        background-image: url(/Github-t/media/Card_community_02_mobile.f8edd1f2b39596fae3a9.png);
+        background-image: url(/Drum-Air/media/Card_community_02_mobile.f8edd1f2b39596fae3a9.png);
         height: 165px
     }
 
     .community-worked {
-        background-image: url(/Github-t/media/Card_community_03_mobile.4b987f87fcd7ad6b126e.png);
+        background-image: url(/Drum-Air/media/Card_community_03_mobile.4b987f87fcd7ad6b126e.png);
         background-size: 100% 100%;
         height: 178px;
         margin-right: 0;
@@ -5293,7 +5293,7 @@ a,a:link,a:visited {
     }
 
     .service_community-image {
-        background-image: url(/Github-t/media/community_image_mobile.634a900a6f9bc5c7ea1f.png);
+        background-image: url(/Drum-Air/media/community_image_mobile.634a900a6f9bc5c7ea1f.png);
         background-size: 100% 100%;
         height: 467px;
         margin-bottom: 20px;
@@ -5317,7 +5317,7 @@ a,a:link,a:visited {
     }
 
     .events-intro {
-        background-image: url(/Github-t/media/Card_Events_01_mobile.3a309bd435cc1c3b0bea.png);
+        background-image: url(/Drum-Air/media/Card_Events_01_mobile.3a309bd435cc1c3b0bea.png);
         height: 245px
     }
 
@@ -5328,12 +5328,12 @@ a,a:link,a:visited {
     }
 
     .events-provide {
-        background-image: url(/Github-t/media/Card_Events_02_mobile.82db049b0e38d61e286a.png);
+        background-image: url(/Drum-Air/media/Card_Events_02_mobile.82db049b0e38d61e286a.png);
         height: 181.88px
     }
 
     .service_events-image {
-        background-image: url(/Github-t/media/image_3_mobile.a83f55fa83864a3fb43b.png);
+        background-image: url(/Drum-Air/media/image_3_mobile.a83f55fa83864a3fb43b.png);
         background-size: 100% 100%;
         height: 424px;
         margin-bottom: 20px;
@@ -5442,7 +5442,7 @@ a,a:link,a:visited {
 
 @media (max-width: 360px) {
     .service_container {
-        background-image:url(/Github-t/media/Services_mobile_bak.a95461fb03c153a58217.png);
+        background-image:url(/Drum-Air/media/Services_mobile_bak.a95461fb03c153a58217.png);
         background-size: 100% 100%
     }
 
@@ -5466,7 +5466,7 @@ a,a:link,a:visited {
     }
 
     .schools-intro {
-        background-image: url(/Github-t/media/school_mobile.b89ddaab6d7101aa0c51.png);
+        background-image: url(/Drum-Air/media/school_mobile.b89ddaab6d7101aa0c51.png);
         height: 421px
     }
 
@@ -5477,12 +5477,12 @@ a,a:link,a:visited {
     }
 
     .schools-provide {
-        background-image: url(/Github-t/media/provide_mobile.798542080b7807b07f29.png);
+        background-image: url(/Drum-Air/media/provide_mobile.798542080b7807b07f29.png);
         height: 165px
     }
 
     .schools-worked {
-        background-image: url(/Github-t/media/worked_mobile.46f4754633582c506fb5.png);
+        background-image: url(/Drum-Air/media/worked_mobile.46f4754633582c506fb5.png);
         height: 206px;
         margin-right: 0
     }
@@ -5493,7 +5493,7 @@ a,a:link,a:visited {
     }
 
     .schools-image {
-        background-image: url(/Github-t/media/school_Image.aef8eb66b15cc5f5733b.png);
+        background-image: url(/Drum-Air/media/school_Image.aef8eb66b15cc5f5733b.png);
         height: 467px;
         margin-bottom: 20px
     }
@@ -5513,7 +5513,7 @@ a,a:link,a:visited {
     }
 
     .corporate-intro {
-        background-image: url(/Github-t/media/corporate_1_mobile.4bea4e15d82d40143382.png);
+        background-image: url(/Drum-Air/media/corporate_1_mobile.4bea4e15d82d40143382.png);
         height: 341px
     }
 
@@ -5524,12 +5524,12 @@ a,a:link,a:visited {
     }
 
     .corporate-provide {
-        background-image: url(/Github-t/media/corporate_2_mobile.6718b939aa5e1135fb96.png);
+        background-image: url(/Drum-Air/media/corporate_2_mobile.6718b939aa5e1135fb96.png);
         height: 197px
     }
 
     .corporate-worked {
-        background-image: url(/Github-t/media/corporate_3_mobile.5acc337beff046f7939e.png);
+        background-image: url(/Drum-Air/media/corporate_3_mobile.5acc337beff046f7939e.png);
         height: 162px
     }
 
@@ -5540,13 +5540,13 @@ a,a:link,a:visited {
     }
 
     .corporate-image {
-        background-image: url(/Github-t/media/Corporate_Image.e82ebff86b82b425d59f.png);
+        background-image: url(/Drum-Air/media/Corporate_Image.e82ebff86b82b425d59f.png);
         height: 467px;
         margin-bottom: 20px
     }
 
     .service-community {
-        background-image: url(/Github-t/media/community_back_mobile.c006e6a884e48c64c167.png);
+        background-image: url(/Drum-Air/media/community_back_mobile.c006e6a884e48c64c167.png);
         background-size: 100% 100%;
         height: 1471.06px;
         margin-right: 0;
@@ -5563,7 +5563,7 @@ a,a:link,a:visited {
     }
 
     .community-intro {
-        background-image: url(/Github-t/media/Card_community_01_mobile.6ccaa290f5f9a623705e.png);
+        background-image: url(/Drum-Air/media/Card_community_01_mobile.6ccaa290f5f9a623705e.png);
         height: 485px
     }
 
@@ -5574,12 +5574,12 @@ a,a:link,a:visited {
     }
 
     .community-provide {
-        background-image: url(/Github-t/media/Card_community_02_mobile.f8edd1f2b39596fae3a9.png);
+        background-image: url(/Drum-Air/media/Card_community_02_mobile.f8edd1f2b39596fae3a9.png);
         height: 165px
     }
 
     .community-worked {
-        background-image: url(/Github-t/media/Card_community_03_mobile.4b987f87fcd7ad6b126e.png);
+        background-image: url(/Drum-Air/media/Card_community_03_mobile.4b987f87fcd7ad6b126e.png);
         background-size: 100% 100%;
         height: 178px;
         margin-right: 0;
@@ -5587,7 +5587,7 @@ a,a:link,a:visited {
     }
 
     .service_community-image {
-        background-image: url(/Github-t/media/community_image_mobile.634a900a6f9bc5c7ea1f.png);
+        background-image: url(/Drum-Air/media/community_image_mobile.634a900a6f9bc5c7ea1f.png);
         background-size: 100% 100%;
         height: 467px;
         margin-bottom: 20px;
@@ -5611,7 +5611,7 @@ a,a:link,a:visited {
     }
 
     .events-intro {
-        background-image: url(/Github-t/media/Card_Events_01_mobile.3a309bd435cc1c3b0bea.png);
+        background-image: url(/Drum-Air/media/Card_Events_01_mobile.3a309bd435cc1c3b0bea.png);
         height: 245px
     }
 
@@ -5622,12 +5622,12 @@ a,a:link,a:visited {
     }
 
     .events-provide {
-        background-image: url(/Github-t/media/Card_Events_02_mobile.82db049b0e38d61e286a.png);
+        background-image: url(/Drum-Air/media/Card_Events_02_mobile.82db049b0e38d61e286a.png);
         height: 181.88px
     }
 
     .service_events-image {
-        background-image: url(/Github-t/media/image_3_mobile.a83f55fa83864a3fb43b.png);
+        background-image: url(/Drum-Air/media/image_3_mobile.a83f55fa83864a3fb43b.png);
         background-size: 100% 100%;
         height: 424px;
         margin-bottom: 20px;
@@ -5742,7 +5742,7 @@ a,a:link,a:visited {
 .collaboration {
     align-content: center;
     background-color: initial;
-    background-image: url(/Github-t/media/Collaboration_Page.87e7e8846626fd88670e.png);
+    background-image: url(/Drum-Air/media/Collaboration_Page.87e7e8846626fd88670e.png);
     background-size: 100% 100%;
     height: 1117px;
     text-align: center
@@ -5755,7 +5755,7 @@ a,a:link,a:visited {
 
 .collaboration_brand {
     animation: pop-in .7s forwards;
-    background-image: url(/Github-t/media/Card_collab_01.b8615df02d4012de4683.png);
+    background-image: url(/Drum-Air/media/Card_collab_01.b8615df02d4012de4683.png);
     background-size: 100% 100%;
     height: 669px;
     width: 364px
@@ -5763,7 +5763,7 @@ a,a:link,a:visited {
 
 .collaboration_employee {
     animation: pop-in 1s forwards;
-    background-image: url(/Github-t/media/Card_collab_02.c41e52a560be2092f6a5.png)
+    background-image: url(/Drum-Air/media/Card_collab_02.c41e52a560be2092f6a5.png)
 }
 
 .collaboration_employee,.collaboration_student {
@@ -5775,7 +5775,7 @@ a,a:link,a:visited {
 
 .collaboration_student {
     animation: pop-in 1.7s forwards;
-    background-image: url(/Github-t/media/Card_collab_03.9952530aa71ea83cd67c.png)
+    background-image: url(/Drum-Air/media/Card_collab_03.9952530aa71ea83cd67c.png)
 }
 
 .collar_planet_1 {
@@ -5817,7 +5817,7 @@ a,a:link,a:visited {
     .collaboration {
         align-content: center;
         background-color: initial;
-        background-image: url(/Github-t/media/Collaboration_mobile.d1a0e557d98696882b77.png);
+        background-image: url(/Drum-Air/media/Collaboration_mobile.d1a0e557d98696882b77.png);
         background-size: 100% 150%;
         height: 1841px;
         padding-top: 10%;
@@ -5833,7 +5833,7 @@ a,a:link,a:visited {
 
     .collaboration_brand {
         animation: pop-in .7s forwards;
-        background-image: url(/Github-t/media/Card_collab_01_mobile.c25efb0163601042cfe8.png);
+        background-image: url(/Drum-Air/media/Card_collab_01_mobile.c25efb0163601042cfe8.png);
         background-size: 100% 100%;
         height: 574px;
         width: 312px
@@ -5841,7 +5841,7 @@ a,a:link,a:visited {
 
     .collaboration_employee {
         animation: pop-in 1s forwards;
-        background-image: url(/Github-t/media/Card_collab_02_mobile.4138689a7b875e28d904.png)
+        background-image: url(/Drum-Air/media/Card_collab_02_mobile.4138689a7b875e28d904.png)
     }
 
     .collaboration_employee,.collaboration_student {
@@ -5854,7 +5854,7 @@ a,a:link,a:visited {
 
     .collaboration_student {
         animation: pop-in 1.7s forwards;
-        background-image: url(/Github-t/media/Card_collab_03_mobile.72458a010440a579e8dd.png)
+        background-image: url(/Drum-Air/media/Card_collab_03_mobile.72458a010440a579e8dd.png)
     }
 
     .collar_planet_1 {
@@ -5890,7 +5890,7 @@ a,a:link,a:visited {
     .collaboration {
         align-content:center;
         background-color: initial;
-        background-image: url(/Github-t/media/Collaboration_mobile.d1a0e557d98696882b77.png);
+        background-image: url(/Drum-Air/media/Collaboration_mobile.d1a0e557d98696882b77.png);
         background-size: 100% 150%;
         height: 1841px;
         overflow: hidden;
@@ -5908,7 +5908,7 @@ a,a:link,a:visited {
 
     .collaboration_brand {
         animation: pop-in .7s forwards;
-        background-image: url(/Github-t/media/Card_collab_01_mobile.c25efb0163601042cfe8.png);
+        background-image: url(/Drum-Air/media/Card_collab_01_mobile.c25efb0163601042cfe8.png);
         background-size: 100% 100%;
         height: 574px;
         width: 312px
@@ -5916,7 +5916,7 @@ a,a:link,a:visited {
 
     .collaboration_employee {
         animation: pop-in 1s forwards;
-        background-image: url(/Github-t/media/Card_collab_02_mobile.4138689a7b875e28d904.png)
+        background-image: url(/Drum-Air/media/Card_collab_02_mobile.4138689a7b875e28d904.png)
     }
 
     .collaboration_employee,.collaboration_student {
@@ -5929,7 +5929,7 @@ a,a:link,a:visited {
 
     .collaboration_student {
         animation: pop-in 1.7s forwards;
-        background-image: url(/Github-t/media/Card_collab_03_mobile.72458a010440a579e8dd.png)
+        background-image: url(/Drum-Air/media/Card_collab_03_mobile.72458a010440a579e8dd.png)
     }
 
     .collar_planet_1 {
@@ -5962,7 +5962,7 @@ a,a:link,a:visited {
 }
 
 .air_community_container {
-    background-image: url(/Github-t/media/Galaxy_Background.cf2afe9d39d4ffd25687.png);
+    background-image: url(/Drum-Air/media/Galaxy_Background.cf2afe9d39d4ffd25687.png);
     background-size: 100% 100%;
     min-height: 1117px
 }
@@ -5988,7 +5988,7 @@ a,a:link,a:visited {
 
 .community_artist {
     animation: pop-in .5s forwards;
-    background-image: url(/Github-t/media/Card_AIRCOm_01.aa9c3d422753bc0d9789.png);
+    background-image: url(/Drum-Air/media/Card_AIRCOm_01.aa9c3d422753bc0d9789.png);
     background-size: 100% 100%;
     height: 400px;
     width: 364px
@@ -5996,7 +5996,7 @@ a,a:link,a:visited {
 
 .community_bassador {
     animation: pop-in 1.2s forwards;
-    background-image: url(/Github-t/media/Card_AIRCOm_02.26c272c80fe2c8c00926.png)
+    background-image: url(/Drum-Air/media/Card_AIRCOm_02.26c272c80fe2c8c00926.png)
 }
 
 .community_bassador,.community_partner {
@@ -6008,7 +6008,7 @@ a,a:link,a:visited {
 
 .community_partner {
     animation: pop-in 1.9s forwards;
-    background-image: url(/Github-t/media/Card_AIRCOm_03.4b15c37d38746b52dab5.png)
+    background-image: url(/Drum-Air/media/Card_AIRCOm_03.4b15c37d38746b52dab5.png)
 }
 
 .welcome-air-community {
@@ -6088,7 +6088,7 @@ a,a:link,a:visited {
 }
 
 .join-now-detail {
-    background-image: url(/Github-t/media/image_19.9e81c207593c58f9cc8a.png);
+    background-image: url(/Drum-Air/media/image_19.9e81c207593c58f9cc8a.png);
     background-size: 100% 100%;
     height: 400px;
     width: 1140px
@@ -6133,7 +6133,7 @@ a,a:link,a:visited {
     }
 
     .air_community_container {
-        background-image: url(/Github-t/media/Community_mobile.38b673031e9ddcebb3e0.png);
+        background-image: url(/Drum-Air/media/Community_mobile.38b673031e9ddcebb3e0.png);
         background-size: 100% 100%;
         min-height: 2041px;
         padding-top: 120px
@@ -6162,7 +6162,7 @@ a,a:link,a:visited {
 
     .community_artist {
         animation: pop-in .5s forwards;
-        background-image: url(/Github-t/media/Card_AIRCOm_01_mobile.67f743a4aaa024c9ece5.png);
+        background-image: url(/Drum-Air/media/Card_AIRCOm_01_mobile.67f743a4aaa024c9ece5.png);
         background-size: 100% 100%;
         height: 300px;
         margin-bottom: 10px;
@@ -6171,7 +6171,7 @@ a,a:link,a:visited {
 
     .community_bassador {
         animation: pop-in 1.2s forwards;
-        background-image: url(/Github-t/media/Card_AIRCOm_02_mobile.5fef958b74781ad6920d.png)
+        background-image: url(/Drum-Air/media/Card_AIRCOm_02_mobile.5fef958b74781ad6920d.png)
     }
 
     .community_bassador,.community_partner {
@@ -6184,7 +6184,7 @@ a,a:link,a:visited {
 
     .community_partner {
         animation: pop-in 1.9s forwards;
-        background-image: url(/Github-t/media/Card_AIRCOm_03_mobile.9771aa070a3374e2f9a9.png)
+        background-image: url(/Drum-Air/media/Card_AIRCOm_03_mobile.9771aa070a3374e2f9a9.png)
     }
 
     .welcome-air-community {
@@ -6221,7 +6221,7 @@ a,a:link,a:visited {
     }
 
     .join-now-detail {
-        background-image: url(/Github-t/media/Image.688a70b28c4be3c69086.png);
+        background-image: url(/Drum-Air/media/Image.688a70b28c4be3c69086.png);
         background-size: 100% 100%;
         border-radius: 50px;
         height: 300px;
@@ -6302,7 +6302,7 @@ a,a:link,a:visited {
 
 @media (max-width: 360px) {
     .air_community_container {
-        background-image:url(/Github-t/media/Community_mobile.38b673031e9ddcebb3e0.png);
+        background-image:url(/Drum-Air/media/Community_mobile.38b673031e9ddcebb3e0.png);
         background-size: 100% 100%;
         min-height: 2041px;
         overflow: hidden;
@@ -6325,7 +6325,7 @@ a,a:link,a:visited {
 
     .community_artist {
         animation: pop-in .5s forwards;
-        background-image: url(/Github-t/media/Card_AIRCOm_01_mobile.67f743a4aaa024c9ece5.png);
+        background-image: url(/Drum-Air/media/Card_AIRCOm_01_mobile.67f743a4aaa024c9ece5.png);
         background-size: 100% 100%;
         height: 300px;
         width: 312px
@@ -6333,7 +6333,7 @@ a,a:link,a:visited {
 
     .community_bassador {
         animation: pop-in 1.2s forwards;
-        background-image: url(/Github-t/media/Card_AIRCOm_02_mobile.5fef958b74781ad6920d.png)
+        background-image: url(/Drum-Air/media/Card_AIRCOm_02_mobile.5fef958b74781ad6920d.png)
     }
 
     .community_bassador,.community_partner {
@@ -6345,7 +6345,7 @@ a,a:link,a:visited {
 
     .community_partner {
         animation: pop-in 1.9s forwards;
-        background-image: url(/Github-t/media/Card_AIRCOm_03_mobile.9771aa070a3374e2f9a9.png)
+        background-image: url(/Drum-Air/media/Card_AIRCOm_03_mobile.9771aa070a3374e2f9a9.png)
     }
 
     .welcome-air-community {
@@ -6382,7 +6382,7 @@ a,a:link,a:visited {
     }
 
     .join-now-detail {
-        background-image: url(/Github-t/media/Image.688a70b28c4be3c69086.png);
+        background-image: url(/Drum-Air/media/Image.688a70b28c4be3c69086.png);
         background-size: 100% 100%;
         border-radius: 50px;
         height: 300px;
@@ -6463,7 +6463,7 @@ a,a:link,a:visited {
 
 .contact {
     background-color: initial;
-    background-image: url(/Github-t/media/Collaboration_Page.87e7e8846626fd88670e.png);
+    background-image: url(/Drum-Air/media/Collaboration_Page.87e7e8846626fd88670e.png);
     background-size: 100% 100%;
     height: 750px;
     padding-top: 10%;
@@ -6545,7 +6545,7 @@ input::placeholder,textarea::placeholder {
 .contact_image {
     animation-duration: 1.1s;
     animation-name: fadeInUp;
-    background-image: url(/Github-t/media/Comet_01.8107b7cf0bb505a1c17d.png);
+    background-image: url(/Drum-Air/media/Comet_01.8107b7cf0bb505a1c17d.png);
     background-size: 100% 100%;
     height: 557px;
     position: absolute;
@@ -6624,7 +6624,7 @@ input::placeholder,textarea::placeholder {
 
     .contact {
         background-color: initial;
-        background-image: url(/Github-t/media/BG_group.876d934ec93cc6f43f21.png);
+        background-image: url(/Drum-Air/media/BG_group.876d934ec93cc6f43f21.png);
         background-size: 100% 150%;
         flex-direction: column-reverse;
         height: 929.53px;
@@ -6682,7 +6682,7 @@ input::placeholder,textarea::placeholder {
     .contact_image {
         animation-duration: 1.1s;
         animation-name: fadeInUp;
-        background-image: url(/Github-t/media/Comet_01_mobile.ccf088d04bcd9624d7f7.png);
+        background-image: url(/Drum-Air/media/Comet_01_mobile.ccf088d04bcd9624d7f7.png);
         background-size: 100% 100%;
         height: 220px;
         margin-left: -20%;
@@ -6745,7 +6745,7 @@ input::placeholder,textarea::placeholder {
 @media (max-width: 360px) {
     .contact {
         background-color:initial;
-        background-image: url(/Github-t/media/BG_group.876d934ec93cc6f43f21.png);
+        background-image: url(/Drum-Air/media/BG_group.876d934ec93cc6f43f21.png);
         background-size: 100% 150%;
         flex-direction: column-reverse;
         height: 929.53px;
@@ -6804,7 +6804,7 @@ input::placeholder,textarea::placeholder {
     .contact_image {
         animation-duration: 1.1s;
         animation-name: fadeInUp;
-        background-image: url(/Github-t/media/Comet_01_mobile.ccf088d04bcd9624d7f7.png);
+        background-image: url(/Drum-Air/media/Comet_01_mobile.ccf088d04bcd9624d7f7.png);
         background-size: 100% 100%;
         height: 220px;
         margin-left: -20%;
@@ -6866,7 +6866,7 @@ input::placeholder,textarea::placeholder {
 
 .privacy-container {
     align-content: center;
-    background-image: url(/Github-t/media/Privacy_back.7e2419a9c553ad7579b8.png);
+    background-image: url(/Drum-Air/media/Privacy_back.7e2419a9c553ad7579b8.png);
     background-size: 100% 100%;
     height: 3366px;
     justify-items: center;
@@ -6896,7 +6896,7 @@ input::placeholder,textarea::placeholder {
 @media (max-width: 744px) {
     .privacy-container {
         align-content:center;
-        background-image: url(/Github-t/media/Privacy_back.7e2419a9c553ad7579b8.png);
+        background-image: url(/Drum-Air/media/Privacy_back.7e2419a9c553ad7579b8.png);
         background-size: 100% 100%;
         justify-items: center;
         min-height: 3964px;
@@ -6919,7 +6919,7 @@ input::placeholder,textarea::placeholder {
 @media (max-width: 360px) {
     .privacy-container {
         align-content:center;
-        background-image: url(/Github-t/media/Privacy_back.7e2419a9c553ad7579b8.png);
+        background-image: url(/Drum-Air/media/Privacy_back.7e2419a9c553ad7579b8.png);
         background-size: 100% 100%;
         justify-items: center;
         min-height: 3964px;
